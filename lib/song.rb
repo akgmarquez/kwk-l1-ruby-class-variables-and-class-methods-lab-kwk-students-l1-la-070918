@@ -6,6 +6,8 @@ class Song
     @@count += 1
   end
   
+  
+  
 ninety_nine_problems = Song.new("99 Problems", "Jay-Z", "rap")
  
 ninety_nine_problems.name
@@ -16,8 +18,4 @@ ninety_nine_problems.artist
  
 ninety_nine_problems.genre
   # => "rap"
-  
-  
-  
-  def ninety_nine_problems.genre
   
