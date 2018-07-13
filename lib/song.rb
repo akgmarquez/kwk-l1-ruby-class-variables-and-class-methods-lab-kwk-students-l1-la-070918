@@ -44,7 +44,3 @@ class Song
    @@artists << self.artist
  end
 end
-Message Input
-
-
-Message Ashyah, Isabella Demetz, Olivia
