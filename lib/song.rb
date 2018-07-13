@@ -8,7 +8,9 @@ class Song
     @@count += 1
   end
   
-  
+end
+
+Song
   
 ninety_nine_problems = Song.new("99 Problems", "Jay-Z", "rap")
  
