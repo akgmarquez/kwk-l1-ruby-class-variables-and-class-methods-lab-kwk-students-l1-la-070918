@@ -7,6 +7,8 @@ class Song
     @@count
   end
   
+  def 
+  
   attr_accessor :name, :artist, :genre
   
 ninety_nine_problems = Song.new("99 Problems", "Jay-Z", "rap")
